@@ -15,4 +15,3 @@ class Restaurant:
 restaurant= Restaurant("Fenty")
 print(restaurant.name())
    
-       
